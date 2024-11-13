@@ -7,12 +7,7 @@
 
 #### Workstation Tools:
 
-<div align="left">
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
-<a href="https://slack.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" height="40" /></a> 
-   
-</div>  
+
 
 &nbsp;
 &nbsp;
