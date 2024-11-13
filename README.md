@@ -1,5 +1,6 @@
 <h3 align="center">A passionate developer from Portugal</h3>
 
+## Other Common Github Profile Sections
 <p align="left">
   I'm a programmer beginner I'm studying at school 42porto.
 </p>
