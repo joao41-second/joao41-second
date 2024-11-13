@@ -1,7 +1,7 @@
 <h3 align="center">A passionate developer from Portugal</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  I'm a programmer beginner I'm studying at school 42porto.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
