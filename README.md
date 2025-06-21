@@ -17,7 +17,11 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=joao41-second&show_icons=true&theme=chartreuse-dark&layout=compact" />
 </div>
 
+<!-- ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFSPinheiro&show_icons=true&theme=prussian)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!--  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
 
+  <img alt="DiogoFSPinheiro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DiogoFSPinheiro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5" height="192px"/></a>
+  <img alt="DiogoFSPinheiro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DiogoFSPinheiro&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
